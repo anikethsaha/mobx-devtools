@@ -87,7 +87,7 @@
         "unexpected": "^10.29.0",
         "unexpected-react": "^4.1.0",
         "unexpected-sinon": "^10.7.1",
-        "url-loader": "^0.5.9",
+        "url-loader": "^1.1.2",
         "webpack": "^3.6.0",
         "webpack-dev-server": "^2.8.2",
         "write-file-webpack-plugin": "^4.1.0"
